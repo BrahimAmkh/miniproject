@@ -308,6 +308,7 @@ body {
     </div>
   <?php } ?>
 </div>
+<button type="submit"> <a href="log.php">log out</a></button>
 
 </body>
 </html>
