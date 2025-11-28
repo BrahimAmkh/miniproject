@@ -310,5 +310,6 @@ body {
 </div>
 <button type="submit"> <a href="log.php">log out</a></button>
 <p>salam</p>
+<p>w salam</p>
 </body>
 </html>
