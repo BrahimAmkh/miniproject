@@ -309,6 +309,6 @@ body {
   <?php } ?>
 </div>
 <button type="submit"> <a href="log.php">log out</a></button>
-
+<p>salam</p>
 </body>
 </html>
